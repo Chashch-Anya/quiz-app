@@ -7,7 +7,7 @@ const QuizCategories = () => {
 
     useEffect(() => {
         // Загрузка JSON файла
-        fetch('%PUBLIC_URL%/quiz.json')
+        fetch('/quiz.json')
             .then((response) => response.json())
             .then((data) => {
                 setCategories(data.quiz.categories);
