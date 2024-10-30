@@ -72,7 +72,7 @@ function Result({ point, questions }) {
         <div className="result">
             {/* <img src="https://banner2.cleanpng.com/20190828/lxj/transparent-candy-corn-5d6a459c56e4f8.1335432415672457243559.jpg" /> */}
             <h2>Вы отгадали {point} ответа из {questions}</h2>
-            <a href='/quiz-app/QuizCategories'>
+            <a href='/quiz-app/#/QuizCategories'>
                 <button>Выбор категории</button>
             </a>
             <button onClick={handleRefresh}>Попробовать снова</button>
