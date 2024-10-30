@@ -80,22 +80,22 @@
             "options": [
               {
                 "id": 1,
-                "text": "Красный"
+                "text": "Trick or Treat (Гадость или сладость)"
               },
               {
                 "id": 2,
-                "text": "Зеленый"
+                "text": "Halloween Hunt (Хэллоуинская охота)"
               },
               {
                 "id": 3,
-                "text": "Черный и оранжевый"
+                "text": "Ghost Walk (Призрачная прогулка)"
               },
               {
                 "id": 4,
-                "text": "Синий"
+                "text": "Candy Quest (Конфетный квест)"
               }
             ],
-            "correctOptionId": 3
+            "correctOptionId": 1
           },
           {
             "id": 5,
